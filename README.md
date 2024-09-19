@@ -26,6 +26,9 @@
 - conda activate visaus
 ```
 
+- if conda activate gives error in vscode use python select interpreter
+
+
 ## dependency installing
 
 ``` bash
